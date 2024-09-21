@@ -63,4 +63,4 @@ jobs:
           app-name: 'coachportalapi'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_56799F6D6E9E4B2E8F9D1038A5DF5DD4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4EF1007D47294F8FB860D8A26AF9718B }}
